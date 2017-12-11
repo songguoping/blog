@@ -1,0 +1,16 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /archives/ 
+Allow: /tags/ 
+Allow: /categories/ 
+Allow: /about/ 
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: http://codersong.top/sitemap.xml
+Sitemap: http://codersong.top/baidusitemap.xml
