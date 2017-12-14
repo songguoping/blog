@@ -94,7 +94,7 @@ theme: next
 当你看到站点的外观与下图所示类似时即说明你已成功安装 NexT 主题。这是 NexT 默认的 Scheme —— Muse
 ![next_muse](http://p0ufe2pi4.bkt.clouddn.com/build-blog-one/hexo_index.png)
 ## 总结
-本章节主要介绍 Hexo 的本地站点的搭建以及使用 next 主题，下一章节主要介绍把博客部署在 Github page 和 Coding Page 上，并配置自己的域名访问。
+本章节主要介绍 Hexo 的本地站点的搭建以及使用 next 主题，[下一章节](/2017-12-14/build-blog-two.html)主要介绍把博客部署在 Github page 和 Coding Page 上，并配置自己的域名访问。
 ### Hexo 基本指令
 ```bash
 $ hexo init # 新建一个网站
