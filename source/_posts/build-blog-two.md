@@ -15,6 +15,8 @@ tags:
 - RSS;
 - 代码高亮，社交链接，打赏，动画等功能；
 - 评论系统，可以匿名评论；
+- 备份博客在 Github 上；
+- 同步更新博客；
 - ......
 </p>
 
@@ -118,7 +120,7 @@ deploy:
 通过 DNSPod 完成流量分发后，然后 Github 和 Coding 上完成各自的配置就可以将自己的域名与 Github page 和 Coding page 绑定起来。
 
 ## 总结
-本章节我们主要介绍了如何把博客部署在 GitHub page 和 Coding Page 上，注册了自己的域名，通过 DNSpod 配置DNS流量分发，[下一章节](/2017-12-13/build-blog-two.html)主要介绍 NexT 的主题配置、第三方服务以及动画的实现。
+本章节我们主要介绍了如何把博客部署在 GitHub page 和 Coding Page 上，注册了自己的域名，通过 DNSpod 配置DNS流量分发，[下一章节](/2017-12-15/build-blog-three.html)主要介绍 NexT 的主题配置、第三方服务以及动画的实现。
 
 ## 常见问题
 ### 部署失败
